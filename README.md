@@ -41,7 +41,7 @@ AI APIs • LLM Integration • AI-Powered Web Applications
 
 - 🌐 **Portfolio Website:** https://uiuxdeveloper8.blogspot.com
 - ⚛️ **React.js Project:** https://www.travsie.com/
-- 🤖 **AI-Powered Web App:**
+- 🤖 **AI-chatbot:** https://aichatbot-ten-pi.vercel.app/
 
 
 ## 📌 Featured Projects links
@@ -50,6 +50,7 @@ AI APIs • LLM Integration • AI-Powered Web Applications
 - https://www.futurepointindia.com/
 - https://www.indianastrology.com/
 - https://reduxnextjs.vercel.app/
+- https://aichatbot-ten-pi.vercel.app/
 - E-commerce Application
 - Redux / Next.js Projects
 
