@@ -51,6 +51,7 @@ AI APIs • LLM Integration • AI-Powered Web Applications
 - https://www.indianastrology.com/
 - https://reduxnextjs.vercel.app/
 - https://aichatbot-ten-pi.vercel.app/
+- https://jivatravel.vercel.app/
 - E-commerce Application
 - Redux / Next.js Projects
 
