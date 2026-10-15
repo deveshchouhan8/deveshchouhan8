@@ -40,6 +40,7 @@ AI APIs • LLM Integration • AI-Powered Web Applications
 ## 🚀 Featured Projects
 
 - 🌐 **Portfolio Website:** https://uiuxdeveloper8.blogspot.com
+- **Next.js Project:** https://healthcare-mu-seven.vercel.app/
 - ⚛️ **React.js Project:** https://www.travsie.com/
 - 🤖 **AI-chatbot:** https://aichatbot-ten-pi.vercel.app/
 
@@ -52,6 +53,7 @@ AI APIs • LLM Integration • AI-Powered Web Applications
 - https://reduxnextjs.vercel.app/
 - https://aichatbot-ten-pi.vercel.app/
 - https://jivatravel.vercel.app/
+- https://healthcare-mu-seven.vercel.app/
 - E-commerce Application
 - Redux / Next.js Projects
 
